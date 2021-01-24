@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Frustrations With Electron and Webpack
-categories: [Rants]
+categories: [Rants, Tech, Code, JavaScript, Git]
 ---
 
 So, a while back, I created a moderately popular app called MyRPC. (It's dead now) Essentially, it was a custom status application for Discord based on the RPC function of Discord. At the time of its creation, my knowledge was mostly of Node.js, so I opted to use Electron. The earliest versions of the code worked spectacularly, and the app was a  hit. However, I learned React at some point, and decided that MyRPC could use a touch of React. Bearing in mind that `create-react-app` was essentially the only way to do React at the time (unless you wanted to configure everything manually), I opted to use it. 
