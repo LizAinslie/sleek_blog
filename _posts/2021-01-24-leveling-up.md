@@ -26,7 +26,7 @@ I then sent it to him, and had him run it. My anxiety has kicked in by this time
 
 The next night it was voice chat again. We spend about 6 hours exchanging memes and laughing way too hard at some of them. But at the end of the call, it was time for him to go to bed. Here's a blurred screenshot of our DM.
 
-![The DM](/_img/screenshots/2021-01/discord_0001.png)
+![The DM](/assets/screenshots/2021-01/discord_0001.png)
 
 It may not seem like much, but the thing about this is, I've never met a person who likes me for me. The feeling of happiness still hasn't gone away.
 
