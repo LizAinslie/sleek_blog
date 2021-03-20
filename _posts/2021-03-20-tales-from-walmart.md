@@ -2,6 +2,7 @@
 layout: post
 title: Tales From Walmart, Ep. 1
 categories: [Tales From Walmart, Life]
+summary: A bit of Walmartian storytime.
 ---
 
 # Preface
