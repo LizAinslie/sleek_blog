@@ -1,6 +1,7 @@
 footer {
   padding: 2.8125rem 0;
-  border-top: 1px solid #f0f0f0;
+  border-top: 1px solid $white_intermediate;
+  background-color: $white_foundation;
   text-align: center;
   font-size: 0.875rem;
   color: rgba(33,33,33,0.6);
